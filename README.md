@@ -1,10 +1,10 @@
-<h1 align="center">Hello! 👋 I am Nikola, but you can call me Nick!</h1>
-<h3 align="center">Riding the tech waves, transforming ideas into digital tides 🌊, one line at a time.</h3>
+<h1 align="center">Greetings! 👋<br>I am Nikola, but you can call me Nick!</h1>
+<h4 align="center">Riding the tech waves & transforming ideas into digital tides 🌊</h4>
+<h4 align="center">One line at a time!</h4>
+<h1></h1>
 
-  
-
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> 
+<h3 align="center">Programming Languages:</h3>
+<p align="center"> 
       <!-- C# -->
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     <!-- JAVA -->
@@ -14,8 +14,9 @@
 </p>  
   
   
-<h3 align="left">Other Tools & Languages:</h3>
-<p align="left"> 
+<br>
+<h3 align="center">Other Tools & Languages:</h3>
+<p align="center"> 
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <!-- .NET -->
@@ -27,3 +28,4 @@
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
+<br>

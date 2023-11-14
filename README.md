@@ -1,7 +1,6 @@
 <h1 align="center">Hello! 👋 I am Nikola, but you can call me Nick!</h1>
 <h3 align="center">Riding the tech waves, transforming ideas into digital tides 🌊, one line at a time.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

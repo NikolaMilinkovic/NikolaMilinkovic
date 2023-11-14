@@ -1,7 +1,7 @@
 ![Header](./Images/github-header-image-3.png)
 
 <h1 align="center">Greetings! 👋<br>I am Nikola, but you can call me Nick!</h1>
-<h4 align="center">Diving into web development, <br>I seamlessly blend together academic insights with the touch of hands-on experience.</h4>
+<h4 align="center">Diving into web development, I seamlessly blend together <br>academic insights with the touch of hands-on experience.</h4>
 <h1></h1>
 
 <h3 align="center">Programming Languages:</h3>

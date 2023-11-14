@@ -1,3 +1,5 @@
+![Header](./Images/github-header-image.png)
+
 <h1 align="center">Greetings! 👋<br>I am Nikola, but you can call me Nick!</h1>
 <h4 align="center">Riding the tech waves & transforming ideas into digital tides 🌊</h4>
 <h4 align="center">One line at a time!</h4>

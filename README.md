@@ -1,4 +1,4 @@
-![Header](./Images/github-header-image-6.png)
+![Header](./Images/github-header-image-7.png)
 
 <h1 align="center"></h1>
 <h4 align="center">As a junior web developer, I intricately weave <br>academic insights with the hands-on touch of experience.</h4>

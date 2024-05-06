@@ -27,7 +27,8 @@ While my academic background is also programming-centric, my tangible knowledge 
   <span></span>
 
 ## Project List
-Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.
+Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.<br>
+**Note: These projects serve as a reminder of my growth and learning experience in the field of programming.**
 
 **⭐ Rating Definitions:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Empty: Meets minimum requirements, minimum styling <br>

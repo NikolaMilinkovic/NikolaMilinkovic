@@ -42,9 +42,7 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 
 | Project           |	Topic(s)           | Status | Repository |	Preview |	Rating |
 | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
+| **CLI Data Structures** | Data Structures, CLI theme | 🟢 | [Repo](https://github.com/NikolaMilinkovic/CLI-Algorithms) | [Demo](https://nikolamilinkovic.github.io/CLI-Algorithms/) | ⭐⭐⭐ |
 | **Project text** | Topix text | Status | Repo | Live Link | Personal Ratng |
-
-| **Project text** | Topix text | Status | Repo | Live Link | Personal Ratng |
-
 | **Project text** | Topix text | Status | Repo | Live Link | Personal Ratng |
 

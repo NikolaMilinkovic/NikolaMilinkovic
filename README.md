@@ -29,20 +29,11 @@ While my academic background is also programming-centric, my tangible knowledge 
 Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.
 
 **⭐ Rating Definitions:** <br>
-<ul style='list-style-type: none; padding-left: 0;'>
-    <li style='text-indent: -1em; padding-left: 1em;'>
-        Empty: Meets minimum requirements, minimum styling
-    </li>
-    <li style='text-indent: -1em; padding-left: 1em;'>
-        ⭐: Effort has been applied to styling, some low effort additional features
-    </li>
-    <li style='text-indent: -1em; padding-left: 1em;'>
-        ⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project
-    </li>
-    <li style='text-indent: -1em; padding-left: 1em;'>
-        ⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨
-    </li>
-</ul>
+> &nbsp;&nbsp;&nbsp;&nbsp;Empty: Meets minimum requirements, minimum styling <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;⭐: Effort has been applied to styling, some low effort additional features <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨
+
 <span style='margin-left: 10px'>
 Empty: Meets minimum requirements, minimum styling <br>
 ⭐: Effort has been applied to styling, some low effort additional features <br>

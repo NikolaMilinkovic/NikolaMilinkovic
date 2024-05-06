@@ -6,11 +6,12 @@ While my academic background is also programming-centric, my tangible knowledge 
 </p>
 
 <h3>Technologies I use:</h3>
+
 ### 💻 Client
   [![Client-Side](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5)](https://skillicons.dev)
 
 ### 🗃️ Server & Databases
-  [![Client-Side](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5)](https://skillicons.dev)
+  [![Server-Databases](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5)](https://skillicons.dev)
 
 ### 📋 Testing
   [![Client-Side](https://skillicons.dev/icons?i=jest&perline=5)](https://skillicons.dev)

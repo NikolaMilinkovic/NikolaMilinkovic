@@ -37,5 +37,5 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 
 | Project           |	Topic(s)           | Status | Repository |	Preview |	Rating |
 | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
-| **Project text** | Topix text | <span style="color:lime;"></span> | Repo | Live Link | Personal Ratng |
+| **Project text** | Topix text | <span style="color:lime;">Status</span> | Repo | Live Link | Personal Ratng |
 

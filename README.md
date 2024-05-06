@@ -41,33 +41,27 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 &nbsp;&nbsp;&nbsp;&nbsp;🔴 - WIP
 
 
-| Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
-| ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
-| **CLI Data Structures** | Data Structures, CLI themed | 🟢 | [Repo](https://github.com/NikolaMilinkovic/CLI-Algorithms) | [Demo](https://nikolamilinkovic.github.io/CLI-Algorithms/) | ⭐⭐⭐ |
-| **Battleship** | Battleship game with a short storyline | 🟢 | [Repo](https://github.com/NikolaMilinkovic/battleship) | [Demo](https://nikolamilinkovic.github.io/battleship/) | ⭐⭐⭐ |
-| **CV-Builder** | React App for creating a personalized CV | 🟢 | [Repo](https://github.com/NikolaMilinkovic/cv-builder) | [Demo](https://cv-builder-ten-sigma.vercel.app/) | ⭐⭐⭐ |
-| **Knight-Travails** | Algorithm for determening the shortest path from one point to another | 🟢 | [Repo](https://github.com/NikolaMilinkovic/knight-travails) | [Demo](https://nikolamilinkovic.github.io/knight-travails/) | ⭐⭐⭐ |
-| **Calculator** | Outdated project but I am very fond of it, I use it on my phone! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/calculator) | [Demo](https://nikolamilinkovic.github.io/calculator/) | ⭐⭐⭐ |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
-| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+| num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
+| --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
+|1.| **CLI Data Structures** | Data Structures, CLI themed | 🟢 | [Repo](https://github.com/NikolaMilinkovic/CLI-Algorithms) | [Demo](https://nikolamilinkovic.github.io/CLI-Algorithms/) | ⭐⭐⭐ |
+|2.| **Battleship** | Battleship game with a short storyline | 🟢 | [Repo](https://github.com/NikolaMilinkovic/battleship) | [Demo](https://nikolamilinkovic.github.io/battleship/) | ⭐⭐⭐ |
+|3.| **CV-Builder** | React App for creating a personalized CV | 🟢 | [Repo](https://github.com/NikolaMilinkovic/cv-builder) | [Demo](https://cv-builder-ten-sigma.vercel.app/) | ⭐⭐⭐ |
+|4.| **Knight-Travails** | Algorithm for determening the shortest path from one point to another | 🟢 | [Repo](https://github.com/NikolaMilinkovic/knight-travails) | [Demo](https://nikolamilinkovic.github.io/knight-travails/) | ⭐⭐⭐ |
+|5.| **Calculator** | Outdated project but I am very fond of it, I use it on my phone! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/calculator) | [Demo](https://nikolamilinkovic.github.io/calculator/) | ⭐⭐⭐ |
+|6.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|7.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|8.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|9.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|10.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|11.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|12.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|13.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|14.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|15.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|16.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|17.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|18.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|19.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
+|20.| **Project text** | Topix text | Status | [Repo]() | [Demo]() | Personal Ratng |
 
 

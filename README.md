@@ -34,20 +34,6 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project <br>
 &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨
 
-<div style="margin-left: 80px; color: black;">
-    Empty: Meets minimum requirements, minimum styling <br>
-    ⭐: Effort has been applied to styling, some low effort additional features <br>
-    ⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project <br>
-    ⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨
-</div>
-
-<span style='margin-left: 10px'>
-Empty: Meets minimum requirements, minimum styling <br>
-⭐: Effort has been applied to styling, some low effort additional features <br>
-⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project <br>
-⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨
-</span>
-
 ### **Courses**
 
 | Project |	Topic(s) | Repository |	Preview |	Rating |

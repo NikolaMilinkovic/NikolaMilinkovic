@@ -24,6 +24,7 @@ While my academic background is also programming-centric, my tangible knowledge 
 
 ### 🛠️ Other Tools & Languages
   [![Client-Side](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) -->
+  <span></span>
 
 ## Project List
 Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.
@@ -36,5 +37,5 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 
 | Project           |	Topic(s)           | Status | Repository |	Preview |	Rating |
 | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
-| **Project text** | Topix text | <font color="lime">Status</font> | Repo | Live Link | Personal Ratng |
+| **Project text** | Topix text | <span style="color:lime;"></span> | Repo | Live Link | Personal Ratng |
 

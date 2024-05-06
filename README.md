@@ -32,10 +32,9 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 &nbsp;&nbsp;&nbsp;&nbsp;Empty: Meets minimum requirements, minimum styling <br>
 &nbsp;&nbsp;&nbsp;&nbsp;⭐: Effort has been applied to styling, some low effort additional features <br>
 &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project <br>
-&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨
+&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨<br>
 
-### **Courses**
-
-| Project |	Topic(s) | Repository |	Preview |	Rating |
-| ------- | -------- | ---------- | ------- | ------ |
+| Project           |	Topic(s)           | Status | Repository |	Preview |	Rating |
+| ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
+| **Project text** | Topix text | <font color="lime">Status</font> | Repo | Live Link | Personal Ratng |
 

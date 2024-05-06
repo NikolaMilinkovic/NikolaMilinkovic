@@ -5,9 +5,16 @@ For the past year I've been deeply immersed in web development, primarily throug
 While my academic background is also programming-centric, my tangible knowledge has largely come from my self-taught journey. I've dedicated myself to learning, often venturing beyond the curriculum to explore new areas and leverage the newly aquired experience to create visually appealing and immersive projects.
 </p>
 
-### 🪄 Client
+<h3>Technologies I use:</h3>
+### 💻 Client
   [![Client-Side](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5)](https://skillicons.dev)
-  
+
+### 🗃️ Server & Databases
+  [![Client-Side](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=5)](https://skillicons.dev)
+
+### 📋 Testing
+  [![Client-Side](https://skillicons.dev/icons?i=jest&perline=5)](https://skillicons.dev)
+
 <h3 align="center">Other Tools & Languages:</h3>
 <p align="center"> 
   <!-- CSS -->

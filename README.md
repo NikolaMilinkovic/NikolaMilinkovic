@@ -29,7 +29,7 @@ While my academic background is also programming-centric, my tangible knowledge 
 Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.
 
 **⭐ Rating Definitions:** <br>
-<span style='padding-left: 10px'>
+<span style='margin-left: 10px'>
 Empty: Meets minimum requirements, minimum styling <br>
 ⭐: Effort has been applied to styling, some low effort additional features <br>
 ⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project <br>

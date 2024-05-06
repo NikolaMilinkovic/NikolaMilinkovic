@@ -1,20 +1,12 @@
 ## Greetings! <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="30" align="top">
-<h4>My name is Nikola.</h4>
+<h4>My name is Nikola, and I am an aspiring Web Developer.</h4>
 <p>
 For the past year I've been deeply immersed in web development, primarily through self-study and [TheOdinProject](https://www.theodinproject.com/) curriculum. <br>
 While my academic background is also programming-centric, my tangible knowledge has largely come from my self-taught journey. I've dedicated myself to learning, often venturing beyond the curriculum to explore new areas and leverage the newly aquired experience to create visually appealing and immersive projects.
 </p>
-<h1></h1>
 
-<h3 align="center">Programming Languages:</h3>
-<p align="center"> 
-    <!-- C# -->
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-    <!-- JAVA -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-</p>  
+### 🪄 Client
+  [![Client-Side](https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5)](https://skillicons.dev)
   
 <h3 align="center">Other Tools & Languages:</h3>
 <p align="center"> 

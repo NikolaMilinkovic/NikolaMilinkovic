@@ -36,8 +36,8 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨<br>
 
 **Status Definitions:**<br>
-🟢 - Done
-🔴 - WIP
+&nbsp;&nbsp;&nbsp;&nbsp;🟢 - Done<br>
+&nbsp;&nbsp;&nbsp;&nbsp;🔴 - WIP
 
 
 | Project           |	Topic(s)           | Status | Repository |	Preview |	Rating |

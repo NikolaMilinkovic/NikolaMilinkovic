@@ -26,3 +26,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 <br>
+
+### **Courses**
+
+| Course                | Topics                                                                               |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| **Git Basics**        | Command Line Basics, Git Basics, Github                                              |
+| **HTML Basics**       | Basic Elements, Lists, Links, Images                                                 |
+| **CSS Basics**        | CSS Cascade, Box Model, Block, Inline, Flexbox                                       |
+| **Javascript Basics** | Variables, Conditionals, Functions, Arrays, Loops, Objects, DOM Manipulation, Events |

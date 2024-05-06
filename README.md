@@ -35,6 +35,18 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project <br>
 &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨<br>
 
+<style>
+r { color: Red }
+n { color: Orange }
+g { color: Green }
+</style>
+
+# TODOs:
+
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <n>DONE:</n> Breath deeply and improve karma
+
 | Project           |	Topic(s)           | Status | Repository |	Preview |	Rating |
 | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
 | **Project text** | Topix text | <span style="color:lime;">Status</span> | Repo | Live Link | Personal Ratng |

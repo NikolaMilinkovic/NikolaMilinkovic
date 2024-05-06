@@ -8,7 +8,14 @@ While my academic background is also programming-centric, my tangible knowledge 
 
 <h3>Technologies I use:</h3>
 
-### 💻 Client
+| Toolset Overview      | Technologies                                                                         |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| **💻 Client**         | [![Client-Side](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)|
+| **🗃️ Server & Database**| [![Server-Databases](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6)](https://skillicons.dev)|
+| **📋 Testing**        | [![Client-Side](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
+| **🛠️ Other Tools & Languages** | [![Client-Side](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) |
+
+<!-- ### 💻 Client
   [![Client-Side](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)
 
 ### 🗃️ Server & Database
@@ -18,14 +25,9 @@ While my academic background is also programming-centric, my tangible knowledge 
   [![Client-Side](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev)
 
 ### 🛠️ Other Tools & Languages
-  [![Client-Side](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev)
+  [![Client-Side](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) -->
 
-| Section               | Technologies                                                                         |
-| --------------------- | ------------------------------------------------------------------------------------ |
-| **💻 Client**         | [![Client-Side](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)|
-| **🗃️ Server & Database**| [![Server-Databases](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6)](https://skillicons.dev)|
-| **📋 Testing**        | [![Client-Side](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
-| **🛠️ Other Tools & Languages** | [![Client-Side](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) |
+
 
 <br>
 

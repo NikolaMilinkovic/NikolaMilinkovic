@@ -20,12 +20,12 @@ While my academic background is also programming-centric, my tangible knowledge 
 ### 🛠️ Other Tools & Languages
   [![Client-Side](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev)
 
-| Technologies          | Topics                                                                               |
+| Technologies          | Technologies                                                                         |
 | --------------------- | ------------------------------------------------------------------------------------ |
 | **💻 Client**         | [![Client-Side](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)|
-| **HTML Basics**       | Basic Elements, Lists, Links, Images                                                 |
-| **CSS Basics**        | CSS Cascade, Box Model, Block, Inline, Flexbox                                       |
-| **Javascript Basics** | Variables, Conditionals, Functions, Arrays, Loops, Objects, DOM Manipulation, Events |
+| **🗃️ Server & Database**| Basic Elements, Lists, Links, Images                                                 |
+| **📋 Testing**        | CSS Cascade, Box Model, Block, Inline, Flexbox                                       |
+| **🛠️ Other Tools & Languages** | Variables, Conditionals, Functions, Arrays, Loops, Objects, DOM Manipulation, Events |
 
 <br>
 

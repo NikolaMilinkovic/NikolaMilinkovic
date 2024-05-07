@@ -8,23 +8,10 @@ While my academic background is also programming-centric, my tangible knowledge 
 
 | Overview              | Technologies                                                                         |
 | --------------------- | ------------------------------------------------------------------------------------ |
-| **💻 Client**         | [![Client-Side](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)|
-| **🗃️ Server & Database**| [![Server-Databases](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6)](https://skillicons.dev)|
-| **📋 Testing**        | [![Client-Side](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
-| **🛠️ Other Tools & Languages** | [![Client-Side](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) |
-
-<!-- ### 💻 Client
-  [![Client-Side](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)
-
-### 🗃️ Server & Database
-  [![Server-Databases](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6)](https://skillicons.dev)
-
-### 📋 Testing
-  [![Client-Side](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev)
-
-### 🛠️ Other Tools & Languages
-  [![Client-Side](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) -->
-  <span></span>
+| **💻 Client**         | [![Client](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)|
+| **🗃️ Server & Database**| [![Server & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6)](https://skillicons.dev)|
+| **📋 Testing**        | [![Testing](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
+| **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) |
 
 ## Project List
 Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.<br>
@@ -58,7 +45,7 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 |13.| **Rock-Paper-Scissors** | One of first project I ever created, RPS game | 🟢 | [Repo](https://github.com/NikolaMilinkovic/rock-paper-scissors) | [Demo](https://nikolamilinkovic.github.io/rock-paper-scissors/) | ⭐⭐ |
 |14.| **Binary-Search-Tree** | My implementation of Binary Search Tree data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/balancedBinarySearchTree-TOP) | N/A | ⭐⭐ |
 |15.| **Linked-List** | My implementation of Linked List data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/linkedList-TOP) | N/A | ⭐⭐ |
-|16.| **Recursion-Practice** | Using recursion i implemented Sorting Algorithms and solver other simple tasks | 🟢 | [Repo](https://github.com/NikolaMilinkovic/recursion-TOP) | N/A | ⭐⭐ |
+|16.| **Recursion-Practice** | Using recursion i implemented Sorting Algorithms and solved other simple tasks | 🟢 | [Repo](https://github.com/NikolaMilinkovic/recursion-TOP) | N/A | ⭐⭐ |
 |17.| **Hash-Map** | My implementation of Hash Map data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/hashMap-TOP) | N/A | ⭐⭐ |
 |18.| **Inventory-App** | Simple Node.js app with MongoDB used to create/store and display inventory | 🟢 | [Repo](https://github.com/NikolaMilinkovic/inventory-app) | [Demo](https://lunar-romantic-alto.glitch.me) | ⭐ |
 |19.| **Memory-Card** | Simple memory app that uses API to fetch Pokemon images | 🟢 | [Repo](https://github.com/NikolaMilinkovic/memory-card) | [Demo](https://memory-card-mauve.vercel.app/) | ⭐ |
@@ -71,6 +58,6 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 |26.| **Etch-A-Sketch** | Simple drawing board. Event listeners practice and basic JS logic. Very old project. | 🔴 | [Repo](https://github.com/NikolaMilinkovic/Etch-a-Sketch) | [Demo](https://nikolamilinkovic.github.io/Etch-a-Sketch/) | ⭐ |
 |27.| **MDN-Express-Library** | MDN Node.js tutorial - Link: [Express Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website) | 🟢 | [Repo](https://github.com/NikolaMilinkovic/MDN-express-local-library) | N/A | - |
 |28.| **Dropdown-Menu** | Dropdown menu practice | 🟢 | [Repo](https://github.com/NikolaMilinkovic/dropdown-menu) | N/A | - |
-|29.| **Tic-Tac-Toe** | Most basic Tic-Tac-Toe you will ever see | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tic-tac-toe) | [Demo](https://nikolamilinkovic.github.io/tic-tac-toe/) | - |
+|29.| **Tic-Tac-Toe** | Most basic Tic-Tac-Toe game you will ever see | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tic-tac-toe) | [Demo](https://nikolamilinkovic.github.io/tic-tac-toe/) | - |
 
 

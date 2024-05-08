@@ -27,7 +27,7 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 &nbsp;&nbsp;&nbsp;&nbsp;🟢 - Done<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔴 - WIP
 
-
+## ⭐⭐⭐ Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
 | --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
 |1.| **CLI Data Structures** | Viasual representation of Data Structures, CLI themed | 🟢 | [Repo](https://github.com/NikolaMilinkovic/CLI-Algorithms) | [Demo](https://nikolamilinkovic.github.io/CLI-data-structures/) | ⭐⭐⭐ |
@@ -35,6 +35,10 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 |3.| **CV-Builder** | React App for creating a personalized CV | 🟢 | [Repo](https://github.com/NikolaMilinkovic/cv-builder) | [Demo](https://cv-builder-ten-sigma.vercel.app/) | ⭐⭐⭐ |
 |4.| **Knight-Travails** | Algorithm for determening the shortest path from one point to another | 🟢 | [Repo](https://github.com/NikolaMilinkovic/knight-travails) | [Demo](https://nikolamilinkovic.github.io/knight-travails/) | ⭐⭐⭐ |
 |5.| **Calculator** | Outdated project but I am very fond of it, I use it on my phone! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/calculator) | [Demo](https://nikolamilinkovic.github.io/calculator/) | ⭐⭐⭐ |
+
+## ⭐⭐ Projects
+| num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
+| --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
 |6.| **Admin-Dashboard** | Dashboard page that uses D3 library for statistical data representation | 🔴 | [Repo](https://github.com/NikolaMilinkovic/admin-dashboard) | [Demo](https://nikolamilinkovic.github.io/admin-dashboard/) | ⭐⭐ |
 |7.| **Product-Selector** | Scalable product selector component based on user input | 🟢 | [Repo](https://github.com/NikolaMilinkovic/product-selector) | [Demo](https://product-selector-smoky.vercel.app/) | ⭐⭐ |
 |8.| **Tiny-Message-Board** | Message board with MongoDB, come leave a message! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tiny-message-board) | [Demo](https://tiny-message-board.adaptable.app/) | ⭐⭐ |
@@ -47,6 +51,10 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 |15.| **Linked-List** | My implementation of Linked List data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/linkedList-TOP) | N/A | ⭐⭐ |
 |16.| **Recursion-Practice** | Using recursion i implemented Sorting Algorithms and solved other simple tasks | 🟢 | [Repo](https://github.com/NikolaMilinkovic/recursion-TOP) | N/A | ⭐⭐ |
 |17.| **Hash-Map** | My implementation of Hash Map data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/hashMap-TOP) | N/A | ⭐⭐ |
+
+## ⭐ or less Projects
+| num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
+| --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
 |18.| **Inventory-App** | Simple Node.js app with MongoDB used to create/store and display inventory | 🟢 | [Repo](https://github.com/NikolaMilinkovic/inventory-app) | [Demo](https://lunar-romantic-alto.glitch.me) | ⭐ |
 |19.| **Memory-Card** | Simple memory app that uses API to fetch Pokemon images | 🟢 | [Repo](https://github.com/NikolaMilinkovic/memory-card) | [Demo](https://memory-card-mauve.vercel.app/) | ⭐ |
 |20.| **Weather-App** | Weather app that fetches data based on user input | 🟢 | [Repo](https://github.com/NikolaMilinkovic/weather-app-practice) | [Demo](https://nikolamilinkovic.github.io/weather-app-practice/) | ⭐ |

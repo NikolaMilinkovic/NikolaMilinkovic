@@ -39,33 +39,33 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 ## ⭐⭐ Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
 | --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
-|6.| **Admin-Dashboard** | Dashboard page that uses D3 library for statistical data representation | 🔴 | [Repo](https://github.com/NikolaMilinkovic/admin-dashboard) | [Demo](https://nikolamilinkovic.github.io/admin-dashboard/) | ⭐⭐ |
-|7.| **Product-Selector** | Scalable product selector component based on user input | 🟢 | [Repo](https://github.com/NikolaMilinkovic/product-selector) | [Demo](https://product-selector-smoky.vercel.app/) | ⭐⭐ |
-|8.| **Tiny-Message-Board** | Message board with MongoDB, come leave a message! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tiny-message-board) | [Demo](https://tiny-message-board.adaptable.app/) | ⭐⭐ |
-|9.| **Shopping-Cart** | Landing page with shopping cart, API product fetching and displaying data | 🔴 | [Repo](https://github.com/NikolaMilinkovic/shopping-cart) | N/A | ⭐⭐ |
-|10.| **Odin-Registration-Form** | Frontend Form practice with parallax effect | 🟢 | [Repo](https://github.com/NikolaMilinkovic/odin-registration-form) | [Demo](https://nikolamilinkovic.github.io/odin-registration-form/) | ⭐⭐ |
-|11.| **WP-Form-Mockup** | Frontend Form practice with parallax effect | 🟢 | [Repo](https://github.com/NikolaMilinkovic/wp-form-mockup) | [Demo](https://nikolamilinkovic.github.io/wp-form-mockup/) | ⭐⭐ |
-|12.| **Restaurant-Homepage** | One page application with vanilla JS/CSS. Old project. | 🟢 | [Repo](https://github.com/NikolaMilinkovic/restaurant-homepage) | [Demo](https://nikolamilinkovic.github.io/restaurant-homepage/) | ⭐⭐ |
-|13.| **Rock-Paper-Scissors** | One of first project I ever created, RPS game | 🟢 | [Repo](https://github.com/NikolaMilinkovic/rock-paper-scissors) | [Demo](https://nikolamilinkovic.github.io/rock-paper-scissors/) | ⭐⭐ |
-|14.| **Binary-Search-Tree** | My implementation of Binary Search Tree data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/balancedBinarySearchTree-TOP) | N/A | ⭐⭐ |
-|15.| **Linked-List** | My implementation of Linked List data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/linkedList-TOP) | N/A | ⭐⭐ |
-|16.| **Recursion-Practice** | Using recursion i implemented Sorting Algorithms and solved other simple tasks | 🟢 | [Repo](https://github.com/NikolaMilinkovic/recursion-TOP) | N/A | ⭐⭐ |
-|17.| **Hash-Map** | My implementation of Hash Map data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/hashMap-TOP) | N/A | ⭐⭐ |
+|1.| **Admin-Dashboard** | Dashboard page that uses D3 library for statistical data representation | 🔴 | [Repo](https://github.com/NikolaMilinkovic/admin-dashboard) | [Demo](https://nikolamilinkovic.github.io/admin-dashboard/) | ⭐⭐ |
+|2.| **Product-Selector** | Scalable product selector component based on user input | 🟢 | [Repo](https://github.com/NikolaMilinkovic/product-selector) | [Demo](https://product-selector-smoky.vercel.app/) | ⭐⭐ |
+|3.| **Tiny-Message-Board** | Message board with MongoDB, come leave a message! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tiny-message-board) | [Demo](https://tiny-message-board.adaptable.app/) | ⭐⭐ |
+|4.| **Shopping-Cart** | Landing page with shopping cart, API product fetching and displaying data | 🔴 | [Repo](https://github.com/NikolaMilinkovic/shopping-cart) | N/A | ⭐⭐ |
+|5.| **Odin-Registration-Form** | Frontend Form practice with parallax effect | 🟢 | [Repo](https://github.com/NikolaMilinkovic/odin-registration-form) | [Demo](https://nikolamilinkovic.github.io/odin-registration-form/) | ⭐⭐ |
+|6.| **WP-Form-Mockup** | Frontend Form practice with parallax effect | 🟢 | [Repo](https://github.com/NikolaMilinkovic/wp-form-mockup) | [Demo](https://nikolamilinkovic.github.io/wp-form-mockup/) | ⭐⭐ |
+|7.| **Restaurant-Homepage** | One page application with vanilla JS/CSS. Old project. | 🟢 | [Repo](https://github.com/NikolaMilinkovic/restaurant-homepage) | [Demo](https://nikolamilinkovic.github.io/restaurant-homepage/) | ⭐⭐ |
+|8.| **Rock-Paper-Scissors** | One of first project I ever created, RPS game | 🟢 | [Repo](https://github.com/NikolaMilinkovic/rock-paper-scissors) | [Demo](https://nikolamilinkovic.github.io/rock-paper-scissors/) | ⭐⭐ |
+|9.| **Binary-Search-Tree** | My implementation of Binary Search Tree data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/balancedBinarySearchTree-TOP) | N/A | ⭐⭐ |
+|10.| **Linked-List** | My implementation of Linked List data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/linkedList-TOP) | N/A | ⭐⭐ |
+|11.| **Recursion-Practice** | Using recursion i implemented Sorting Algorithms and solved other simple tasks | 🟢 | [Repo](https://github.com/NikolaMilinkovic/recursion-TOP) | N/A | ⭐⭐ |
+|12.| **Hash-Map** | My implementation of Hash Map data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/hashMap-TOP) | N/A | ⭐⭐ |
 
 ## ⭐ or less Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
 | --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
-|18.| **Inventory-App** | Simple Node.js app with MongoDB used to create/store and display inventory | 🟢 | [Repo](https://github.com/NikolaMilinkovic/inventory-app) | [Demo](https://lunar-romantic-alto.glitch.me) | ⭐ |
-|19.| **Memory-Card** | Simple memory app that uses API to fetch Pokemon images | 🟢 | [Repo](https://github.com/NikolaMilinkovic/memory-card) | [Demo](https://memory-card-mauve.vercel.app/) | ⭐ |
-|20.| **Weather-App** | Weather app that fetches data based on user input | 🟢 | [Repo](https://github.com/NikolaMilinkovic/weather-app-practice) | [Demo](https://nikolamilinkovic.github.io/weather-app-practice/) | ⭐ |
-|21.| **My-Library** | Library app that implements Google login and Firebase DB | 🔴 | [Repo](https://github.com/NikolaMilinkovic/myLibrary) | [Demo](https://my-library-phi-cyan.vercel.app/#) | ⭐ |
-|22.| **Registration-Form-Practice** | Form implementation and styling practice | 🟢 | [Repo](https://github.com/NikolaMilinkovic/registration-form-practice) | [Demo](https://nikolamilinkovic.github.io/registration-form-practice/) | ⭐ |
-|23.| **Odin-Recipes** | My second project I ever created. Learned basic HTML/CSS. | 🟢 | [Repo](https://github.com/NikolaMilinkovic/odin-recipes) | [Demo](https://nikolamilinkovic.github.io/odin-recipes/) | ⭐ |
-|24.| **Landing-Page** | First project ever created. Learned basic HTML & CSS. | 🟢 | [Repo](https://github.com/NikolaMilinkovic/landing_page) | [Demo](https://nikolamilinkovic.github.io/landing_page/) | ⭐ |
-|25.| **Shopping-List** | Shopping List for my personal usage on my Android device | 🟢 | [Repo](https://github.com/NikolaMilinkovic/shopping-list) | [Demo](https://nikolamilinkovic.github.io/shopping-list/) | ⭐ |
-|26.| **Etch-A-Sketch** | Simple drawing board. Event listeners practice and basic JS logic. Very old project. | 🔴 | [Repo](https://github.com/NikolaMilinkovic/Etch-a-Sketch) | [Demo](https://nikolamilinkovic.github.io/Etch-a-Sketch/) | ⭐ |
-|27.| **MDN-Express-Library** | MDN Node.js tutorial - Link: [Express Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website) | 🟢 | [Repo](https://github.com/NikolaMilinkovic/MDN-express-local-library) | N/A | - |
-|28.| **Dropdown-Menu** | Dropdown menu practice | 🟢 | [Repo](https://github.com/NikolaMilinkovic/dropdown-menu) | N/A | - |
-|29.| **Tic-Tac-Toe** | Most basic Tic-Tac-Toe game you will ever see | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tic-tac-toe) | [Demo](https://nikolamilinkovic.github.io/tic-tac-toe/) | - |
+|1.| **Inventory-App** | Simple Node.js app with MongoDB used to create/store and display inventory | 🟢 | [Repo](https://github.com/NikolaMilinkovic/inventory-app) | [Demo](https://lunar-romantic-alto.glitch.me) | ⭐ |
+|2.| **Memory-Card** | Simple memory app that uses API to fetch Pokemon images | 🟢 | [Repo](https://github.com/NikolaMilinkovic/memory-card) | [Demo](https://memory-card-mauve.vercel.app/) | ⭐ |
+|3.| **Weather-App** | Weather app that fetches data based on user input | 🟢 | [Repo](https://github.com/NikolaMilinkovic/weather-app-practice) | [Demo](https://nikolamilinkovic.github.io/weather-app-practice/) | ⭐ |
+|4.| **My-Library** | Library app that implements Google login and Firebase DB | 🔴 | [Repo](https://github.com/NikolaMilinkovic/myLibrary) | [Demo](https://my-library-phi-cyan.vercel.app/#) | ⭐ |
+|5.| **Registration-Form-Practice** | Form implementation and styling practice | 🟢 | [Repo](https://github.com/NikolaMilinkovic/registration-form-practice) | [Demo](https://nikolamilinkovic.github.io/registration-form-practice/) | ⭐ |
+|6.| **Odin-Recipes** | My second project I ever created. Learned basic HTML/CSS. | 🟢 | [Repo](https://github.com/NikolaMilinkovic/odin-recipes) | [Demo](https://nikolamilinkovic.github.io/odin-recipes/) | ⭐ |
+|7.| **Landing-Page** | First project ever created. Learned basic HTML & CSS. | 🟢 | [Repo](https://github.com/NikolaMilinkovic/landing_page) | [Demo](https://nikolamilinkovic.github.io/landing_page/) | ⭐ |
+|8.| **Shopping-List** | Shopping List for my personal usage on my Android device | 🟢 | [Repo](https://github.com/NikolaMilinkovic/shopping-list) | [Demo](https://nikolamilinkovic.github.io/shopping-list/) | ⭐ |
+|9.| **Etch-A-Sketch** | Simple drawing board. Event listeners practice and basic JS logic. Very old project. | 🔴 | [Repo](https://github.com/NikolaMilinkovic/Etch-a-Sketch) | [Demo](https://nikolamilinkovic.github.io/Etch-a-Sketch/) | ⭐ |
+|10.| **MDN-Express-Library** | MDN Node.js tutorial - Link: [Express Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website) | 🟢 | [Repo](https://github.com/NikolaMilinkovic/MDN-express-local-library) | N/A | - |
+|11.| **Dropdown-Menu** | Dropdown menu practice | 🟢 | [Repo](https://github.com/NikolaMilinkovic/dropdown-menu) | N/A | - |
+|12.| **Tic-Tac-Toe** | Most basic Tic-Tac-Toe game you will ever see | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tic-tac-toe) | [Demo](https://nikolamilinkovic.github.io/tic-tac-toe/) | - |
 
 

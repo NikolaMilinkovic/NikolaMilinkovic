@@ -10,7 +10,7 @@ While my academic background is also programming-centric, my tangible knowledge 
 | --------------------- | ------------------------------------------------------------------------------------ |
 | **💻 Client**         | [![Client](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)|
 | **🗃️ Server & Database**| [![Server & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6)](https://skillicons.dev)|
-<!-- | **📋 Testing**        | [![Testing](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) | -->
+| **📋 Testing**        | [![Testing](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
 | **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) |
 
 ## Project List

@@ -10,7 +10,7 @@ While my academic background is also programming-centric, my tangible knowledge 
 | --------------------- | ------------------------------------------------------------------------------------ |
 | **💻 Client**         | [![Client](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)|
 | **🗃️ Server & Database**| [![Server & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6)](https://skillicons.dev)|
-| **📋 Testing**        | [![Testing](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
+<!-- | **📋 Testing**        | [![Testing](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) | -->
 | **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) |
 
 ## Project List
@@ -22,15 +22,22 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 &nbsp;&nbsp;&nbsp;&nbsp;⭐: Effort has been applied to styling, some low effort additional features <br>
 &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐: Has additional features applied, moderate design and styling, overall nicer looking project <br>
 &nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐: Proud of these. Comprehensive feature set. A keystone piece! ✨<br>
+&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐: Projects for broad client use across the web. 🌍<br>
 
 **Status Definitions:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🟢 - Done<br>
 &nbsp;&nbsp;&nbsp;&nbsp;🔴 - WIP
 
+## ⭐⭐⭐⭐ Projects
+| num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
+| --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
+|1.| **Mc Schematic Manager** | Schematic manager for studios and individuals! | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
+|2.| **Mc Schematic Manager Server** | Backend server for Mc Schematic Manager | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-server) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
+
 ## ⭐⭐⭐ Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
 | --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
-|1.| **CLI Data Structures** | Viasual representation of Data Structures, CLI themed | 🟢 | [Repo](https://github.com/NikolaMilinkovic/CLI-Algorithms) | [Demo](https://nikolamilinkovic.github.io/CLI-data-structures/) | ⭐⭐⭐ |
+|1.| **CLI Data Structures** | Visual representation of Data Structures, CLI themed | 🟢 | [Repo](https://github.com/NikolaMilinkovic/CLI-Algorithms) | [Demo](https://nikolamilinkovic.github.io/CLI-data-structures/) | ⭐⭐⭐ |
 |2.| **Battleship** | Battleship game with a short storyline | 🟢 | [Repo](https://github.com/NikolaMilinkovic/battleship) | [Demo](https://nikolamilinkovic.github.io/battleship/) | ⭐⭐⭐ |
 |3.| **CV-Builder** | React App for creating a personalized CV | 🟢 | [Repo](https://github.com/NikolaMilinkovic/cv-builder) | [Demo](https://cv-builder-ten-sigma.vercel.app/) | ⭐⭐⭐ |
 |4.| **Knight-Travails** | Algorithm for determening the shortest path from one point to another | 🟢 | [Repo](https://github.com/NikolaMilinkovic/knight-travails) | [Demo](https://nikolamilinkovic.github.io/knight-travails/) | ⭐⭐⭐ |

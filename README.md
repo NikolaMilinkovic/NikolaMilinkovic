@@ -75,4 +75,8 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 |11.| **Dropdown-Menu** | Dropdown menu practice | 🟢 | [Repo](https://github.com/NikolaMilinkovic/dropdown-menu) | N/A | - |
 |12.| **Tic-Tac-Toe** | Most basic Tic-Tac-Toe game you will ever see | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tic-tac-toe) | [Demo](https://nikolamilinkovic.github.io/tic-tac-toe/) | - |
 
+## Current LeetCode Stats 🚀
+LeetCode Profile [NikolaMilinkovic](https://leetcode.com/u/NikolaMilinkovic/) ✨
 
+Number of solved problems:<br>
+![LeetCode Stats](https://leetcode.card.workers.dev/NikolaMilinkovic?theme=nord&font=baloo&extension=null)

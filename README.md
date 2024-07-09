@@ -1,5 +1,5 @@
 ## Greetings! <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="30" align="top">
-<h4>My name is Nikola, and I am an aspiring Web Developer.</h4>
+<h4>My name is Nikola, and I am an aspiring Full Stack Web Developer.</h4>
 
 For the past year and a half I've been deeply immersed in web development, primarily through self-study and [TheOdinProject](https://www.theodinproject.com/) curriculum. <br>
 While my academic background is also programming-centric, my tangible knowledge has largely come from my self-taught journey. I've dedicated myself to learning, often venturing beyond the curriculum to explore new areas and leverage the newly aquired experience to create visually appealing and immersive projects.

@@ -12,7 +12,7 @@ If you are interested to learn more about me contrinue reading or take a look at
 | **💻 Client**         | [![Client](https://skillicons.dev/icons?i=html,css,js,react,&perline=6)](https://skillicons.dev)|
 | **🗃️ Server & Database**| [![Server & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=6)](https://skillicons.dev)|
 | **📋 Testing**        | [![Testing](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
-| **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=java,cs,sass,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel,postman&perline=6)](https://skillicons.dev) |
+| **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=java,cs,sass,github,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel,postman&perline=6)](https://skillicons.dev) |
 
 ## Project List
 Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.<br>

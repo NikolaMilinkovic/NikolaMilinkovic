@@ -8,10 +8,10 @@ While my academic background is also programming-centric, my tangible knowledge 
 
 | Overview              | Technologies                                                                         |
 | --------------------- | ------------------------------------------------------------------------------------ |
-| **💻 Client**         | [![Client](https://skillicons.dev/icons?i=html,css,js,react&perline=6)](https://skillicons.dev)|
-| **🗃️ Server & Database**| [![Server & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=6)](https://skillicons.dev)|
+| **💻 Client**         | [![Client](https://skillicons.dev/icons?i=html,css,js,react,&perline=6)](https://skillicons.dev)|
+| **🗃️ Server & Database**| [![Server & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=6)](https://skillicons.dev)|
 | **📋 Testing**        | [![Testing](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
-| **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=java,cs,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) |
+| **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=java,cs,sass,git,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel,postman&perline=6)](https://skillicons.dev) |
 
 ## Project List
 Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.<br>
@@ -31,8 +31,9 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 ## ⭐⭐⭐⭐ Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
 | --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
-|1.| **Mc Schematic Manager** | Schematic manager for studios and individuals! | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
-|2.| **Mc Schematic Manager Server** | Backend server for Mc Schematic Manager | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-server) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
+|1.| **My Portfolio Website** | Personal portoflio website! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/portfolio-website) | [Live](https://nikola-portfolio-website.vercel.app/) | ⭐⭐⭐⭐ |
+|2.| **Mc Schematic Manager** | Schematic manager for studios and individuals! | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
+|3.| **Mc Schematic Manager Server** | Backend server for Mc Schematic Manager | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-server) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
 
 ## ⭐⭐⭐ Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |

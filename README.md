@@ -2,7 +2,7 @@
 <h4>My name is Nikola, and I am a Full Stack Web Developer.</h4>
 
 For some time now I've been deeply immersed in web development, primarily through self-study and [TheOdinProject](https://www.theodinproject.com/) curriculum. <br>
-While my academic background is also programming-centric, my tangible knowledge has largely come from my self-taught journey. I've dedicated myself to learning, often venturing beyond the curriculum to explore new areas and leverage the newly aquired experience to create visually appealing and immersive projects.
+While my academic background is also programming-centric, my tangible knowledge has largely come from my self-taught journey. I've dedicated myself to learning, often venturing beyond the curriculum to explore new areas and leverage the newly aquired experience to create visually appealing and immersive projects.<br><br>
 If you are interested to learn more about me contrinue reading or take a look at my personal [portfolio website !](https://nikola-portfolio-website.vercel.app/)
 
 ## Tech Stack:

@@ -1,4 +1,6 @@
 ## Greetings! <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="30" align="top">
+
+![](https://komarev.com/ghpvc/?username=NikolaMilinkovic&style=flat-square)
 <h4>My name is Nikola, and I am a Full Stack Web Developer.</h4>
 
 For some time now I've been deeply immersed in web development, primarily through self-study and [TheOdinProject](https://www.theodinproject.com/) curriculum. <br>

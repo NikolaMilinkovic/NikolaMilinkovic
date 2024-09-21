@@ -62,6 +62,9 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 |11.| **Recursion-Practice** | Using recursion i implemented Sorting Algorithms and solved other simple tasks | 🟢 | [Repo](https://github.com/NikolaMilinkovic/recursion-TOP) | N/A | ⭐⭐ |
 |12.| **Hash-Map** | My implementation of Hash Map data structure | 🟢 | [Repo](https://github.com/NikolaMilinkovic/hashMap-TOP) | N/A | ⭐⭐ |
 |13.| **RN Guess-the-Number** | React Native Guess the number game | 🟢 | [Repo](https://github.com/NikolaMilinkovic/rn-guess-the-number) | N/A | ⭐⭐ |
+|14.| **RN Food-menu-tracker** | React Native navigation practice app | 🟢 | [Repo](https://github.com/NikolaMilinkovic/rn-food-menu-selector) | N/A | ⭐⭐ |
+|15.| **RN Expense-tracker-app** | Expenses tracking application with React Native | 🟢 | [Repo](https://github.com/NikolaMilinkovic/rn-expense-tracker-app) | N/A | ⭐⭐ |
+|15.| **RN Favorite-places** | React Native - device native features practice app | 🔴 | [Repo](https://github.com/NikolaMilinkovic/rn-favorite-places) | N/A | ⭐⭐ |
 
 ## ⭐ or less Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
@@ -78,6 +81,7 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 |10.| **MDN-Express-Library** | MDN Node.js tutorial - Link: [Express Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website) | 🟢 | [Repo](https://github.com/NikolaMilinkovic/MDN-express-local-library) | N/A | - |
 |11.| **Dropdown-Menu** | Dropdown menu practice | 🟢 | [Repo](https://github.com/NikolaMilinkovic/dropdown-menu) | N/A | - |
 |12.| **Tic-Tac-Toe** | Most basic Tic-Tac-Toe game you will ever see | 🟢 | [Repo](https://github.com/NikolaMilinkovic/tic-tac-toe) | [Demo](https://nikolamilinkovic.github.io/tic-tac-toe/) | - |
+|13.| **RN Auth** | React Native basic auth practice app | 🟢 | [Repo](https://github.com/NikolaMilinkovic/rn-auth) | N/A | ⭐ |
 
 ## Current LeetCode Stats 🚀 
 

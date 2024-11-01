@@ -33,9 +33,11 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 ## ⭐⭐⭐⭐ Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |
 | --- | ----------------- | ------------------ | ------ | ---------- | ------- | ------ |
-|1.| **My Portfolio Website** | Personal portoflio website! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/portfolio-website) | [Live](https://nikola-portfolio-website.vercel.app/) | ⭐⭐⭐⭐ |
-|2.| **Mc Schematic Manager** | Schematic manager for studios and individuals! | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
-|3.| **Mc Schematic Manager Server** | Backend server for Mc Schematic Manager | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-server) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
+|1.| **Infinity Boutique App** | Instagram boutique stock & order management app | 🔴 | [Repo](https://github.com/NikolaMilinkovic/infinity-ui) | N / A | ⭐⭐⭐⭐ |
+|2.| **Infinity Boutique Backend** | Backend for Infinity Boutique App | 🔴 | [Repo](https://github.com/NikolaMilinkovic/infinity-backend) | N / A | ⭐⭐⭐⭐ |
+|3.| **My Portfolio Website** | Personal portoflio website! | 🟢 | [Repo](https://github.com/NikolaMilinkovic/portfolio-website) | [Live](https://nikola-portfolio-website.vercel.app/) | ⭐⭐⭐⭐ |
+|4.| **Mc Schematic Manager** | Schematic manager for studios and individuals! | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
+|5.| **Mc Schematic Manager Server** | Backend server for Mc Schematic Manager | 🔴 | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-server) | [Live](https://mc-schematic-manager.vercel.app/login) | ⭐⭐⭐⭐ |
 
 ## ⭐⭐⭐ Projects
 | num | Project           |	Topic / Description | Status | Repository |	Preview |	Rating |

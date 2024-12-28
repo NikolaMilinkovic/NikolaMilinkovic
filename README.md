@@ -89,4 +89,5 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 
 LeetCode Profile [NikolaMilinkovic](https://leetcode.com/u/NikolaMilinkovic/) ✨
 
-![LeetCode Stats](https://leetcode.card.workers.dev/NikolaMilinkovic?theme=nord&font=baloo&extension=null)
+<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/NikolaMilinkovic?theme=nord&font=baloo&extension=null) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/NikolaMilinkovic?site=cn)

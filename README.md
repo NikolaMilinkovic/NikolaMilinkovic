@@ -14,7 +14,7 @@ Intuitive layout and design.
 I'm not just passionate about code. What drives me is the full experience — building software that stands out by being simple, effective, and genuinely enjoyable to use.
 There you have it. That's me.
 
-If you’d like to find out more about me, check out my [portfolio website !](https://nikola-portfolio-website.vercel.app/)
+If you’d like to find out more, check out my [portfolio website !](https://nikola-portfolio-website.vercel.app/)
 
 
 ## Tech Stack:

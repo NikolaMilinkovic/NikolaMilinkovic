@@ -1,23 +1,34 @@
 ## Greetings! <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="30" align="top">
 
-<h4>My name is Nikola, and I am a Full Stack Web Developer.</h4>
+<h4>My name is Nikola, and I'm a Full Stack Developer.</h4>
 
-For some time now I've been deeply immersed in web development, primarily through self-study and [TheOdinProject](https://www.theodinproject.com/) curriculum. <br>
-While my academic background is also programming-centric, my tangible knowledge has largely come from my self-taught journey. I've dedicated myself to learning, often venturing beyond the curriculum to explore new areas and leverage the newly aquired experience to create visually appealing and immersive projects.<br><br>
-If you are interested to learn more about me contrinue reading or take a look at my personal [portfolio website !](https://nikola-portfolio-website.vercel.app/)
+My journey started as a self-taught developer through [The Odin Project](https://www.theodinproject.com/), and over time, I turned that curiosity into a professional career. And more importantly, passion.
+
+Architecting and developing applications from scratch is something that gets me excited. I believe that great user experience and ease of use is something that either elevates the software in the eyes of the user or completely kills it. 
+
+Simplicity. 
+Efficiency. 
+Smoothness. 
+Intuitive layout and design.
+
+I'm not just passionate about code. What drives me is the full experience — building software that stands out by being simple, effective, and genuinely enjoyable to use.
+There you have it. That's me.
+
+If you’d like to find out more about me, check out my [portfolio website !](https://nikola-portfolio-website.vercel.app/)
+
 
 ## Tech Stack:
 
 | Overview              | Technologies                                                                         |
 | --------------------- | ------------------------------------------------------------------------------------ |
 | **💻 Client**         | [![Client](https://skillicons.dev/icons?i=html,css,js,react,&perline=6)](https://skillicons.dev)|
-| **🗃️ Server & Database**| [![Server & Database](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=6)](https://skillicons.dev)|
+| **🗃️ Server & Database**| [![Server & Database](https://skillicons.dev/icons?i=nodejs,express,php,mongodb,postgres&perline=6)](https://skillicons.dev)|
 | **📋 Testing**        | [![Testing](https://skillicons.dev/icons?i=jest&perline=6)](https://skillicons.dev) |
-| **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=java,cs,sass,github,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel,postman&perline=6)](https://skillicons.dev) |
+| **🛠️ Other Tools & Languages** | [![Other Tools & Languages](https://skillicons.dev/icons?i=laravel,java,cs,sass,github,npm,pug,jquery,d3,webpack,vite,vscode,figma,vercel&perline=6)](https://skillicons.dev) |
 
 ## Project List
-Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity of the given project. You will also find a link to each project repository and a live link if available.<br>
-**Note: These projects serve as a reminder of my growth and learning experience as well as milestones achieved in the field of programming.**
+Here you can find all of the project currently residing on my GitHug profile. Ratings given to each project are based on my personal preference and may not neccesserily reflect the complexity or completeness of the given project. You will also find a link to each project repository and a live link if available.<br>
+**Note: These projects serve as a reminder of my growth and learning experience as well as personal milestones achieved in the field of programming.**
 
 **⭐ Rating Definitions:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Empty: Meets minimum requirements, minimum styling <br>
@@ -89,5 +100,4 @@ Here you can find all of the project currently residing on my GitHug profile. Ra
 
 LeetCode Profile [NikolaMilinkovic](https://leetcode.com/u/NikolaMilinkovic/) ✨
 
-<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/NikolaMilinkovic?theme=nord&font=baloo&extension=null) -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NikolaMilinkovic?site=us)

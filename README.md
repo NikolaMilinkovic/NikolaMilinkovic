@@ -10,7 +10,7 @@ Also, Ihave a [portfolio website](https://nikola-portfolio-website.vercel.app/),
 
 ## Some of the tech I like to use:
 
-[![Some of the tech I like to use](https://skillicons.dev/icons?i=js,react,laravel,nodejs,express,mongodb,mysql&perline=6)](https://skillicons.dev)
+[![Some of the tech I like to use](https://skillicons.dev/icons?i=js,react,laravel,nodejs,express,mongodb,mysql&perline=10)](https://skillicons.dev)
 
 ## Repositories overview
 
@@ -19,13 +19,13 @@ Bacause I think it's great to have a historical record of where and how my caree
 
 ## Favorites
 
-| num | Project                         | Topic / Description                            | Repository                                                              | Preview                                               |
-| --- | ------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
-| 1.  | **Business Plus Ui**            | Stock & order management app                   | [Repo](https://github.com/NikolaMilinkovic/business-plus-ui)            | N / A                                                 |
-| 2.  | **Business Plus Backend**       | Backend for Business Plus App                  | [Repo](https://github.com/NikolaMilinkovic/business-plus-backend)       | N / A                                                 |
-| 3.  | **My Portfolio Website**        | Personal portoflio website!                    | [Repo](https://github.com/NikolaMilinkovic/portfolio-website)           | [Live](https://nikola-portfolio-website.vercel.app/)  |
-| 4.  | **Mc Schematic Manager**        | Schematic manager for studios and individuals! | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-rework) | [Live](https://mc-schematic-manager.vercel.app/login) |
-| 5.  | **Mc Schematic Manager Server** | Backend server for Mc Schematic Manager        | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-server) | [Live](https://mc-schematic-manager.vercel.app/login) |
+| num | Project                         | Topic / Description                                                                                                                                         | Repository                                                              | Preview                                               |
+| --- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
+| 1.  | **Business Plus Ui**            | Stock & order management app                                                                                                                                | [Repo](https://github.com/NikolaMilinkovic/business-plus-ui)            | N / A                                                 |
+| 2.  | **Business Plus Backend**       | Backend for Business Plus App                                                                                                                               | [Repo](https://github.com/NikolaMilinkovic/business-plus-backend)       | N / A                                                 |
+| 3.  | **My Portfolio Website**        | Personal portoflio website!                                                                                                                                 | [Repo](https://github.com/NikolaMilinkovic/portfolio-website)           | [Live](https://nikola-portfolio-website.vercel.app/)  |
+| 4.  | **Mc Schematic Manager**        | Schematic manager for studios and individuals. Solves the issue of having way too many build assets and finding what you need for reuse while map building. | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-rework) | [Live](https://mc-schematic-manager.vercel.app/login) |
+| 5.  | **Mc Schematic Manager Server** | Backend server for Mc Schematic Manager                                                                                                                     | [Repo](https://github.com/NikolaMilinkovic/mc-schematic-manager-server) | [Live](https://mc-schematic-manager.vercel.app/login) |
 
 ## [The Odin Project curriculum](https://www.theodinproject.com/) & [React Native course](https://www.udemy.com/course/react-native-the-practical-guide)
 

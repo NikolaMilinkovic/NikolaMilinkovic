@@ -2,7 +2,7 @@
 
 <h4>I'm Nick and I like building stuff.</h4>
 
-I am a self-taught developer, yeah proudly, that started with and completed [The Odin Project](https://www.theodinproject.com/) curriculum, freelanced for a bit, developed & maintain applications that actually have active users, imagine that, and am currently working at Energoprojekt Entel.
+I am a self-taught developer, yeah proudly, that started with and completed [The Odin Project](https://www.theodinproject.com/) curriculum, freelanced for a bit, developed and maintain applications that actually have active users, imagine that, and am currently working at Energoprojekt Entel.
 
 Solving business issues or optimizing existing workflows via tech is something I enjoy. Building projects from scratch, architecting, developing and shaping them over time. But what I’ve always enjoyed most is simply creating things that other people find useful or fun. Programming is just another medium through which I can express that and create.
 
